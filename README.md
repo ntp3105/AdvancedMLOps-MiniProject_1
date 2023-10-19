@@ -15,9 +15,14 @@ Hi
 - main
 - feature
 
+<<<<<<< HEAD
+## Resolve merge conflicts
+- Resolve feature branch conflicts
+=======
 
 
 
 
 ## Merge Conflicts
 - This is from feature branch
+>>>>>>> feature
