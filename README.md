@@ -1,6 +1,6 @@
 # Assignment/Lab 1
 
-Hi.
+Hi
 
 ## Steps
 1. Create a github repository
