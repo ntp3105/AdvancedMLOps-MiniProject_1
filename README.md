@@ -1,6 +1,6 @@
 # Assignment/Lab 1
 
-Hi.
+Hi
 
 ## Steps
 1. Create a github repository
@@ -15,5 +15,14 @@ Hi.
 - main
 - feature
 
+<<<<<<< HEAD
 ## Resolve merge conflicts
 - Resolve feature branch conflicts
+=======
+
+
+
+
+## Merge Conflicts
+- This is from feature branch
+>>>>>>> feature
